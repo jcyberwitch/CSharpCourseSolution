@@ -1,0 +1,13 @@
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\bin\Debug\netcoreapp3.1\C_ArrayCollections.exe
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\bin\Debug\netcoreapp3.1\C_ArrayCollections.deps.json
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\bin\Debug\netcoreapp3.1\C_ArrayCollections.runtimeconfig.json
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\bin\Debug\netcoreapp3.1\C_ArrayCollections.runtimeconfig.dev.json
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\bin\Debug\netcoreapp3.1\C_ArrayCollections.dll
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\bin\Debug\netcoreapp3.1\C_ArrayCollections.pdb
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\obj\Debug\netcoreapp3.1\C_ArrayCollections.csprojAssemblyReference.cache
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\obj\Debug\netcoreapp3.1\C_ArrayCollections.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\obj\Debug\netcoreapp3.1\C_ArrayCollections.AssemblyInfo.cs
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\obj\Debug\netcoreapp3.1\C_ArrayCollections.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\obj\Debug\netcoreapp3.1\C_ArrayCollections.dll
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\obj\Debug\netcoreapp3.1\C_ArrayCollections.pdb
+C:\Users\User\Desktop\CSharp\CSharpCourseSolution\C_ArrayCollections\obj\Debug\netcoreapp3.1\C_ArrayCollections.genruntimeconfig.cache
